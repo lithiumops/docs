@@ -10,7 +10,8 @@ Welcome to lithium's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   content/introduce
+   content/compents
 
 Indices and tables
 ==================
